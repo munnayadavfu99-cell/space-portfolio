@@ -360,5 +360,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/space-portfolio",
+  sourceCode: "https://www.shutterstock.com/image-vector/smile-face-middle-finger-gesture-600nw-2068161176.jpg",
 };
